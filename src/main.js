@@ -1,5 +1,3 @@
-'use strict';
-
 // ОСНОВНЫЕ БЛОКИ
 
 import {getTemplateOfMenu} from "./components/menu.js";
